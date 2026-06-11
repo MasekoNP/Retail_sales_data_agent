@@ -92,8 +92,7 @@ Which month had the highest number of transactions?
  
 ### Prerequisites
  
-- Python 3.8+ (for data preprocessing or local use)
-- An AI agent platform (e.g. LangChain, n8n, Flowise, or a custom LLM setup)
+- Databricks (for data preprocessing or local use, and for an AI agent platform 
 - The dataset file: `Retail_sales_dataset.csv`
 ### Steps
  
