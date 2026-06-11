@@ -143,5 +143,3 @@ Data Analytics Project — 2026
  
 ---
  
-*Built with the assistance of Claude (Anthropic) for agent instruction design and documentation.*
- 
