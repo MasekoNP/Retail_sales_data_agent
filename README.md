@@ -12,7 +12,6 @@
 - [How to Use](#how-to-use)
 - [Example Queries](#example-queries)
 - [Setup & Installation](#setup--installation)
-- [Project Structure](#project-structure)
 - [Author](#author)
 ---
  
@@ -121,18 +120,6 @@ Which month had the highest number of transactions?
 5. **Run the agent**
    - Submit queries in natural language via your chosen agent interface.
 ---
- 
-## 📁 Project Structure
- 
-```
-retail-sales-data-agent/
-│
-├── Retail_sales_dataset.csv   # Source data (1,000 transactions)
-├── agent_instructions.md      # Full agent instructions (all 7 sections)
-├── README.md                  # Project documentation (this file)
-└── notebooks/
-    └── eda.ipynb              # Optional: exploratory data analysis
-```
  
 ---
  
