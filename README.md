@@ -103,7 +103,7 @@ Which month had the highest number of transactions?
 
 ```
  
-2. **Install dependencies** *(if running locally with Python)*
+2. **Install dependencies**
 ```bash
    pip install pandas numpy
 ```
@@ -138,7 +138,7 @@ retail-sales-data-agent/
  
 ## 👤 Author
  
-**Ndadlana**  
+**Ndadlana Maseko**  
 Data Analytics Project — 2026  
  
 ---
